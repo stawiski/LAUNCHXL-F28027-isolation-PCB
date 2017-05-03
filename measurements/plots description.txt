@@ -1,0 +1,9 @@
+Measurement parameters
+
+Vin = 3.308V
+Vrec (voltage after rectifying diodes) = 3.866V
+Vout = 3.292V (load current = 50mA)
+
+plot1 - Vrec voltage, AC coupled, probing between GND near transformer and after both shottky diodes
+plot2 - drain voltages of SN6501 chip showing the switching, DC coupled
+plot3 - output voltages of the transformer, before shottky diodes, DC coupled

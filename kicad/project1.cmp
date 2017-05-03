@@ -1,0 +1,136 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 2015-07-07 13:21:06
+
+BeginCmp
+TimeStamp = /559905D2;
+Reference = C1;
+ValeurCmp = 4.7u;
+IdModule  = c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /559905C3;
+Reference = C2;
+ValeurCmp = 100n;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5599139F;
+Reference = C3;
+ValeurCmp = 4.7u;
+IdModule  = c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /559913AE;
+Reference = C4;
+ValeurCmp = 100n;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55991455;
+Reference = C5;
+ValeurCmp = 4.7u;
+IdModule  = c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5599145B;
+Reference = C6;
+ValeurCmp = 100n;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /559AE1A5;
+Reference = C7;
+ValeurCmp = 4.7u;
+IdModule  = c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /559AE1AB;
+Reference = C8;
+ValeurCmp = 100n;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55991307;
+Reference = D1;
+ValeurCmp = MBR0520L;
+IdModule  = SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /55991316;
+Reference = D2;
+ValeurCmp = MBR0520L;
+IdModule  = SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /559AD6D5;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /559905B4;
+Reference = L1;
+ValeurCmp = 10uH;
+IdModule  = VLCF5020;
+EndCmp
+
+BeginCmp
+TimeStamp = /55991448;
+Reference = L2;
+ValeurCmp = 100uH;
+IdModule  = VLCF5020;
+EndCmp
+
+BeginCmp
+TimeStamp = /55990836;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /559ADB7F;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /559AD6C6;
+Reference = R1;
+ValeurCmp = Rled;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55991248;
+Reference = TR1;
+ValeurCmp = TRANSFORMER_1_1.3;
+IdModule  = transf_isol_wurth;
+EndCmp
+
+BeginCmp
+TimeStamp = /5599056C;
+Reference = U1;
+ValeurCmp = SN6501;
+IdModule  = SOT23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /559AD40B;
+Reference = U2;
+ValeurCmp = TLV73333 SOT-23-5;
+IdModule  = SOT23-5;
+EndCmp
+
+EndListe
